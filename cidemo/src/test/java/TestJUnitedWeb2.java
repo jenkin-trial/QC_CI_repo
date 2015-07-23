@@ -49,7 +49,7 @@ public class TestJUnitedWeb2 {
 	// This testcase go to united.com , look for specific flight and validate we go   
 	@Test
 	public void CheckFlight() {
-		IMobileDevice device = ((IMobileDriver) driver).getDevice(System.getProperty("PerfectoDeviceID"));
+		IMobileDevice device = ((IMobileDriver) driver).getDevice(System.getProperty("1A4B823F"));
 		
 		
 		
