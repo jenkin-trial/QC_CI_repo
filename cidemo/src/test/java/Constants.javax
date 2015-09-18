@@ -5,12 +5,12 @@ public class Constants {
 
 
         // before demo update the following parameters
-        public static final String PM_USER = "patrickm@perfectomobile.com";
-        public static final String PM_PASSWORD = "perfecto";
-        public static final String PM_CLOUD = "demo.perfectomobile.com";
+        public static final String PM_USER = "k.devi.natarajan@accenture.com";
+        public static final String PM_PASSWORD = "devi12345";
+        public static final String PM_CLOUD = "accenture.perfectomobile.com";
 
         //Device for the JtestUnited
-        public static final String PM_DEVICE = "B803C085";
+        public static final String PM_DEVICE = "1A4B823F";
 
         //Devices for the JUnitParam
         public static final String PM_DEVICE_1 = "B803C085";
